@@ -24,7 +24,7 @@ client.commands_array = [];
 
 require('./handlers/events').init(client);
 
-client.login("MTAxNDUxNDY1MjI0NTQwNTczNw.G9hYpH.h4DUHr_qP5qy3_mpwhE86wB-b_JkNxY8T-1WNM");
+client.login("");
 
 module.exports = client;
 
